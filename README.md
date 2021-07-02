@@ -2,15 +2,9 @@
 Today I learned
 # 분류
 ***
-## 마크다운
-리드미를 꾸미고 싶은데 일단 문법은 알아야 하므로. 다음을 참고하자.  ~~html 까먹었..~~ 
-<https://gist.github.com/gogoheejun/1553d21f52ca83d24d56c115c8ed0334.js>
-* 일단 내가 그래도 자주 쓸 것 같은건
-```
-+ 코드쓰기: ```로 위아래 감쌈
-+ 강조: * 앞뒤로..
-+ 기울이기: ** 앞뒤로
-```
+## 기타
+* 20210702마크다운 기본 :https://github.com/gogoheejun/TIL/blob/main/md/20210702%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md
+
 ## 알고리즘
 
 ## Java 기본
