@@ -1,5 +1,5 @@
 # TIL
-Today I learned
+Today I learned..이름은 거창..그냥 삽질기록
 # 분류
 ***
 ## 기타
