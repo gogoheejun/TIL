@@ -1,3 +1,5 @@
+여기서 보셈: https://github.com/gogoheejun/spartaWeb/tree/master/frontend
+
 jquery 보니까 id값이랑 class값 갖고올 때 주로 쓰고 다른건 그냥 바닐라로 하는듯.
 
 - 특히 빽틱으로 쓰는거 신기.
