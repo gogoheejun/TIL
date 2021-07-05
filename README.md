@@ -29,5 +29,5 @@ Today I learned..이름은 거창..그냥 삽질기록
 ## 컴퓨터기초
 <details markdown="1">
 <summary>접기/펼치기</summary>
-* [20210705_트랜지스터,계산기](https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
+* [20210705_트랜지스터,계산기] (https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
 </details>
