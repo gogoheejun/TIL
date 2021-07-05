@@ -25,3 +25,9 @@ Today I learned..이름은 거창..그냥 삽질기록
 
 * [20210705_ajax(jquery활용)](https://github.com/gogoheejun/TIL/blob/main/basicWeb/html%2Ccss%2Cjs/20210705_jquery%2Cajax%2Cjson%ED%8C%8C%EC%8B%B1.md)
 </details>
+
+## 컴퓨터기초
+<details markdown="1">
+<summary>접기/펼치기</summary>
+* [20210705_트랜지스터,계산기](https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
+</details>
