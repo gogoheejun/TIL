@@ -12,6 +12,13 @@ Today I learned..이름은 거창..그냥 삽질기록
 </details>
 
 ## 알고리즘
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+* [20210706_k번째약수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/1.%20k%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98)
+* [k번째 수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/2.%20K%EB%B2%88%EC%A7%B8%20%EC%88%98)
+* [k번째 큰수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/3.%20k%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98)
+</details>
 
 ## Java 기본
 
