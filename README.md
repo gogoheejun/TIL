@@ -31,9 +31,8 @@ Today I learned..이름은 거창..그냥 삽질기록
 <summary>접기/펼치기</summary>
 
 * [20210705_ajax(jquery활용)](https://github.com/gogoheejun/TIL/blob/main/basicWeb/html%2Ccss%2Cjs/20210705_jquery%2Cajax%2Cjson%ED%8C%8C%EC%8B%B1.md)
-</details>
 * [20210706_api활용,크롤링,](https://github.com/gogoheejun/TIL/blob/main/basicWeb/20210707_api%2C%ED%81%AC%EB%A1%A4%EB%A7%81%2Cmongodb%EA%B8%B0%EC%B4%88.md)
-
+</details>
 ## 컴퓨터기초
 <details markdown="1">
 <summary>접기/펼치기</summary>
