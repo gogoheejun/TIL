@@ -13,11 +13,21 @@ Today I learned..이름은 거창..그냥 삽질기록
 
 ## 알고리즘
 <details markdown="1">
-<summary>접기/펼치기</summary>
-
+<summary>접기/펼치기</summary>   
+<details markdown="1">
+<summary>구현</summary>
+       
 * [20210706_k번째약수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/1.%20k%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98)
 * [k번째 수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/2.%20K%EB%B2%88%EC%A7%B8%20%EC%88%98)
 * [k번째 큰수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/3.%20k%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98)
+* [20210707_대표값](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/4.%20%EB%8C%80%ED%91%9C%EA%B0%92)
+* [20210707_정다면체](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/5.%20%EC%A0%95%EB%8B%A4%EB%A9%B4%EC%B2%B4)
+* [20210707_자릿수합](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/6.%20%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%20%ED%95%A9)
+* [20210707_소수(에라토스테네스체)](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/7.%20%EC%86%8C%EC%88%98(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%20%EC%B2%B4))
+* [20210707_뒤집은소수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/8.%20%EB%92%A4%EC%A7%91%EC%9D%80%20%EC%86%8C%EC%88%98)
+* [20210707_주사위게임](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/9.%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84)
+
+</details>
 </details>
 
 ## Java 기본
