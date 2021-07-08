@@ -28,6 +28,17 @@ Today I learned..이름은 거창..그냥 삽질기록
 * [20210707_주사위게임](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%202/9.%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84)
 
 </details>
+
+<details markdown="1">
+<summary>탐색</summary>
+
+* [20210708_회문문자열검사](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/1.%20%ED%9A%8C%EB%AC%B8%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%80%EC%82%AC)
+* [20210708_숫자만 추출](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/2.%20%EC%88%AB%EC%9E%90%EB%A7%8C%20%EC%B6%94%EC%B6%9C)
+* [20210708_카드역배치](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/3.%20%EC%B9%B4%EB%93%9C%20%EC%97%AD%EB%B0%B0%EC%B9%98)
+* [20210708_두 리스트합치기](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/4.%20%EB%91%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EC%B9%98%EA%B8%B0)
+* [20210708_수들의 합](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/5.%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9)
+
+</details>
 </details>
 
 ## Java 기본
