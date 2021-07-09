@@ -37,7 +37,12 @@ Today I learned..이름은 거창..그냥 삽질기록
 * [20210708_카드역배치](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/3.%20%EC%B9%B4%EB%93%9C%20%EC%97%AD%EB%B0%B0%EC%B9%98)
 * [20210708_두 리스트합치기](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/4.%20%EB%91%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EC%B9%98%EA%B8%B0)
 * [20210708_수들의 합](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/5.%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9)
-
+* [20210709_격자판최대합](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/6.%20%EA%B2%A9%EC%9E%90%ED%8C%90%20%EC%B5%9C%EB%8C%80%ED%95%A9)
+* [20210709_사과나무](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/7.%20%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4)
+* [20210709_곶감](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/8.%20%EA%B3%B3%EA%B0%90)
+* [20210709_봉우리](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/9.%20%EB%B4%89%EC%9A%B0%EB%A6%AC)
+* [20210709_스도쿠검사](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/10.%20%EC%8A%A4%EB%8F%84%EC%BF%A0%20%EA%B2%80%EC%82%AC)
+* [20210709_격자판회문수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/11.%20%EA%B2%A9%EC%9E%90%ED%8C%90%20%ED%9A%8C%EB%AC%B8%EC%88%98)
 </details>
 </details>
 
