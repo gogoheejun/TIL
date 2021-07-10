@@ -25,4 +25,79 @@
 - 부모클래스 상속과 생성자 
 - 인터페이스 구현과 오버라이드, 구현한 인터페이스의 추상메소드 사용 
 - 추상메소드 구현하고 **그 안에서** 상속받은 부모클래스의 변수와 메소드를 사용하기(_자식클래스안에서 보이지도 않는 부모꺼를 조작하는것_)
-- 업캐스팅
+얘는 인터페이스
+```java
+public interface Walkable {
+    void walk(int x, int y);
+}
+```
+얘는 부모클래스
+```java
+public class Human {
+    String name;
+    int age;
+    int speed;
+    int x, y;
+
+    public Human(String name, int age, int speed, int x, int y) {
+        this.name = name;
+        this.age = age;
+        this.speed = speed;
+        this.x = x;
+        this.y = y;
+    }
+
+    public Human(String name, int age, int speed) {
+        this(name, age, speed, 0, 0);
+    }
+
+    public String getLocation() {
+        return "(" + x + ", " + y + ")";
+    }
+    protected void printWhoAmI() {
+        System.out.println("My name is " + name + ". " + age + " aged.");
+    }
+}
+```
+얘가 바로 위의 인터페이스와 부모클래스를 구현/상속한 자식클래스...
+```java
+public class GrandParent extends Human implements Walkable{
+
+    public GrandParent(String name, int age) {
+        super(name, age,1);
+    }
+
+
+    @Override
+    public void walk(int x, int y) {
+        printWhoAmI();
+        System.out.println("walk speed: " + speed);
+        this.x = x;
+        this.y = y;
+        System.out.println("Walked to " + getLocation());
+    }
+}
+
+    ```
+근데 사실, this.x =x에서 super.x라고 해야 하는데 자식클래스에 어차피 x가 따로 선언된 게 없으니 부모의 x가 건드려짐.
+
+- 업캐스팅, 업캐스팅을 하는 이유- Human[] 이렇게 배열로 못 묶으면 for못써서 일일히 해야함..
+```java
+Human parent = new Parent("엄마", 50);
+        Human child = new Child("나", 20);
+
+        Human[] humans = { grandParent, parent, child };
+        for (Human human : humans) {
+            System.out.println(human.name + ", 나이: " + human.age + ", 속도: " + human.speed + ", 장소: " + human
+                    .getLocation());
+        }
+```
+- 인터페이스로도 타입캐스팅 가능하다.
+```java
+//Human[] humans = { grandParent, parent, child }; 각각 원소는 인터페이스 Walkable, Runnable, Swimmable 중 한개이상을 구현한 객체임
+for (Human human : humans) {
+            if (human instanceof Walkable) {
+                ((Walkable) human).walk(1, 1);
+                System.out.println(" - - - - - - ");
+            }
+  ```
