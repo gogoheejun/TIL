@@ -78,7 +78,7 @@ public class GrandParent extends Human implements Walkable{
     }
 }
 
-    ```
+```
 근데 사실, this.x =x에서 super.x라고 해야 하는데 자식클래스에 어차피 x가 따로 선언된 게 없으니 부모의 x가 건드려짐.
 
 - 업캐스팅, 업캐스팅을 하는 이유- Human[] 이렇게 배열로 못 묶으면 for못써서 일일히 해야함..
