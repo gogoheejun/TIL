@@ -46,7 +46,29 @@ Today I learned..이름은 거창..그냥 삽질기록
 </details>
 </details>
 
+<details markdown="1">
+<summary>결정알고리즘(이분탐색)</summary>
+
+- [20210710_이분검색](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/1.%20%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89)       
+- [20210710_랜선자르기](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/2.%20%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0)    
+- [20210710_뮤직비디오](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/3.%20%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4)    
+- [20210710_마구간정하기](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/4.%20%EB%A7%88%EA%B5%AC%EA%B0%84%20%EC%A0%95%ED%95%98%EA%B8%B0)     
+
+</details>
+</details>
+
 ## Java 기본
+<details markdown="1">
+<summary>접기/펼치기</summary>
+- [20210710_날짜와시간](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EB%82%A0%EC%A7%9C%EC%99%80%EC%8B%9C%EA%B0%84.md)
+- [20210710_예외처리](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%98%88%EC%99%B8%2C%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
+- [20210710_접근제어자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
+- [20210710_추상클래스_인터페이스](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+- [20210710_상속,생성자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%83%81%EC%86%8D%2C%EC%83%9D%EC%84%B1%EC%9E%90.md)
+- [20210710_캐스팅](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BA%90%EC%8A%A4%ED%8C%85.md)
+- [20210710_컬렉션](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BB%AC%EB%A0%89%EC%85%98.md)
+
+</details>
 
 ## Java back-end Framework
 
