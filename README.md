@@ -55,13 +55,26 @@ Today I learned..이름은 거창..그냥 삽질기록
 - [20210710_마구간정하기](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/4.%20%EB%A7%88%EA%B5%AC%EA%B0%84%20%EC%A0%95%ED%95%98%EA%B8%B0)     
 
 </details>
+
+<details markdown="1">
+<summary>그리디</summary>
+
+- [20210710_회의실배정](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/5.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)        
+- [20210710_씨름선수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/6.%20%EC%94%A8%EB%A6%84%EC%84%A0%EC%88%98)              
+- [20210711_창고정리](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/7.%20%EC%B0%BD%EA%B3%A0%20%EC%A0%95%EB%A6%AC)
+- [20210711_침몰하는타이타닉](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/8.%20%EC%B9%A8%EB%AA%B0%ED%95%98%EB%8A%94%20%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89)
+- [20210711_증가수열만들기](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/9.%20%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [20210712_역수열](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%204/10.%20%EC%97%AD%EC%88%98%EC%97%B4)
+
 </details>
 
-## Java 기본
-<details markdown="1">
-<summary>접기/펼치기</summary>
+</details>
 
-- [20210710_날짜와시간](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EB%82%A0%EC%A7%9C%EC%99%80%EC%8B%9C%EA%B0%84.md)
+## Java와 객체지향
+<details markdown="1">
+<summary>자바 기본</summary>
+
+- [20210710_날짜와시간](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EB%82%A0%EC%A7%9C%EC%99%80%EC%8B%9C%EA%B0%84.md)          
 - [20210710_예외처리](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%98%88%EC%99%B8%2C%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
 - [20210710_접근제어자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 - [20210710_추상클래스_인터페이스](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
@@ -69,6 +82,13 @@ Today I learned..이름은 거창..그냥 삽질기록
 - [20210710_캐스팅](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BA%90%EC%8A%A4%ED%8C%85.md)
 - [20210710_컬렉션](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BB%AC%EB%A0%89%EC%85%98.md)
 
+</details>
+<details markdown="1">
+
+<summary>OOP</summary>
+
+ - [20210712_객체는 기능으로 정의한다](https://github.com/gogoheejun/TIL/blob/main/java_basic/OOP/01_%EA%B0%9D%EC%B2%B4%EB%8A%94%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C%EC%A0%95%EC%9D%98%ED%95%9C%EB%8B%A4.md)
+ 
 </details>
 
 ## Java back-end Framework
