@@ -88,6 +88,8 @@ Today I learned..이름은 거창..그냥 삽질기록
 <summary>자바 작동원리</summary>
 
 - [20210712_jvm](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_jvm.md)
+- [20210712_바이트코드](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C.md)
+- [20210712_리플렉션(1)](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98(1).md)
 
 </details>
 
