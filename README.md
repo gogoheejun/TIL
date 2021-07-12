@@ -109,6 +109,8 @@ Today I learned..이름은 거창..그냥 삽질기록
 * [20210705_ajax(jquery활용)](https://github.com/gogoheejun/TIL/blob/main/basicWeb/html%2Ccss%2Cjs/20210705_jquery%2Cajax%2Cjson%ED%8C%8C%EC%8B%B1.md)
 * [20210706_api활용,크롤링,몽고db](https://github.com/gogoheejun/TIL/blob/main/basicWeb/20210707_api%2C%ED%81%AC%EB%A1%A4%EB%A7%81%2Cmongodb%EA%B8%B0%EC%B4%88.md)
 * [20210707_flask로 서버연습](https://github.com/gogoheejun/TIL/blob/main/basicWeb/20210708_flask%EB%A1%9C%EC%9B%B9%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+* [20210708_서버배포](https://github.com/gogoheejun/TIL/blob/main/basicWeb/%EC%84%9C%EB%B2%84%EC%97%90%EC%98%AC%EB%A6%AC%EA%B8%B0.md)
+
 </details>
 
 ## 컴퓨터기초
