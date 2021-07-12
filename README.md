@@ -83,8 +83,15 @@ Today I learned..이름은 거창..그냥 삽질기록
 - [20210710_컬렉션](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BB%AC%EB%A0%89%EC%85%98.md)
 
 </details>
-<details markdown="1">
 
+<details markdown="1">
+<summary>자바 작동원리</summary>
+
+- [20210712_jvm](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_jvm.md)
+
+</details>
+
+<details markdown="1">
 <summary>OOP</summary>
 
  - [20210712_객체는 기능으로 정의한다](https://github.com/gogoheejun/TIL/blob/main/java_basic/OOP/01_%EA%B0%9D%EC%B2%B4%EB%8A%94%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C%EC%A0%95%EC%9D%98%ED%95%9C%EB%8B%A4.md)
