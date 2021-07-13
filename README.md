@@ -1,8 +1,7 @@
-# TIL
-Today I learned..이름은 거창..그냥 삽질기록
-# 분류
-***
-## 기타
+
+> Today I learned. 하루하루 채워나가는 :boy:heejun의 :pencil2:TIL입니다
+
+## :pushpin:기타
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
@@ -11,7 +10,7 @@ Today I learned..이름은 거창..그냥 삽질기록
 * [20210704_깃허브블로그만들기](https://github.com/gogoheejun/TIL/blob/main/etc/20210704_blog.md)
 </details>
 
-## 알고리즘
+## :pushpin:알고리즘
 <details markdown="1">
 <summary>접기/펼치기</summary>   
 <details markdown="1">
@@ -44,7 +43,6 @@ Today I learned..이름은 거창..그냥 삽질기록
 * [20210709_스도쿠검사](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/10.%20%EC%8A%A4%EB%8F%84%EC%BF%A0%20%EA%B2%80%EC%82%AC)
 * [20210709_격자판회문수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%203/11.%20%EA%B2%A9%EC%9E%90%ED%8C%90%20%ED%9A%8C%EB%AC%B8%EC%88%98)
 </details>
-</details>
 
 <details markdown="1">
 <summary>결정알고리즘(이분탐색)</summary>
@@ -69,8 +67,9 @@ Today I learned..이름은 거창..그냥 삽질기록
 </details>
 
 </details>
+</details>
 
-## Java와 객체지향
+## :pushpin:Java와 객체지향
 <details markdown="1">
 <summary>자바 기본</summary>
 
@@ -100,11 +99,18 @@ Today I learned..이름은 거창..그냥 삽질기록
  
 </details>
 
-## Java back-end Framework
+## :pushpin:Springboot
+<details markdown="1">
+<summary>열기</summary>
 
-## Android
+- [20210713_스프링부트 기본원리01](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(01).md)
 
-## Web 기초
+</details>
+
+
+## :pushpin:Android
+
+## :pushpin:Web 기초
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
@@ -115,7 +121,7 @@ Today I learned..이름은 거창..그냥 삽질기록
 
 </details>
 
-## 컴퓨터기초
+## :pushpin:컴퓨터기초
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
