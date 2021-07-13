@@ -66,6 +66,14 @@
 
 </details>
 
+<details markdown="1">
+<summary>자료구조</summary>
+
+- [20210713_스택_가장큰수](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%205/1.%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
+- [20210713_스택_()문제](https://github.com/gogoheejun/algorithm/tree/main/%EC%84%B9%EC%85%98%205/2.%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)
+
+
+</details>
 </details>
 </details>
 
