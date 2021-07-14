@@ -112,6 +112,7 @@
 <summary>열기</summary>
 
 - [20210713_스프링부트 기본원리01](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(01).md)
+- [20210714_스프링부트 기본원리02](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(02).md)
 
 </details>
 
