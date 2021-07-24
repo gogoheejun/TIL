@@ -129,7 +129,7 @@
 - [20210717_로그인](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/04_%EB%A1%9C%EA%B7%B8%EC%9D%B8.md)
 - [20210718_회원정보수정](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/05_%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95.md)
 - [20210723_구독하기api](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/06_%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0api.md)
-
+- [20210724_프로필페이지](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/07_%ED%94%84%EB%A1%9C%ED%95%84%ED%8E%98%EC%9D%B4%EC%A7%80.md)
 </details>
 </details>
 
