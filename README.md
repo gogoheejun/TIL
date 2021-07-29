@@ -134,6 +134,7 @@
 - [20210726_스토리 페이지](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/08_%EA%B5%AC%EB%8F%85%EC%A0%95%EB%B3%B4%20%EB%B7%B0%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 - [20210727_기타(인기페이지,프로필추가사항)](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/11_%EA%B8%B0%ED%83%80-%EC%9D%B8%EA%B8%B0%ED%8E%98%EC%9D%B4%EC%A7%80%2C%ED%94%84%EB%A1%9C%ED%95%84%20%EC%B6%94%EA%B0%80%EC%82%AC%ED%95%AD.md)
 - [20210729_댓글](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/12_%EB%8C%93%EA%B8%80.md)
+- [20210729_AOP처리](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/13_AOP%EC%B2%98%EB%A6%AC.md)
 
 </details>
 </details>
