@@ -68,11 +68,15 @@
 
 <details markdown="1">
 <summary>SQL</summary>
+
 * [20210731_SQL중급문법](https://github.com/gogoheejun/TIL/tree/main/DB)
+
 </details>
 
 <details markdown="1">
 <summary>RDBMS 모델링</summary>
+
+-[20210731_RDBMS소개](https://github.com/gogoheejun/TIL/blob/main/DB/RDBMS%EB%AA%A8%EB%8D%B8%EB%A7%81/RDBMS%EC%86%8C%EA%B0%9C.md)
 
 </details>
 
