@@ -30,6 +30,8 @@
 
 ## :pushpin:Java와 객체지향
 <details markdown="1">
+<summary>열기</summary>
+<details markdown="1">
 <summary>자바 기본</summary>
 
 - [20210710_날짜와시간](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EB%82%A0%EC%A7%9C%EC%99%80%EC%8B%9C%EA%B0%84.md)          
@@ -57,11 +59,12 @@
  - [20210712_객체는 기능으로 정의한다](https://github.com/gogoheejun/TIL/blob/main/java_basic/OOP/01_%EA%B0%9D%EC%B2%B4%EB%8A%94%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C%EC%A0%95%EC%9D%98%ED%95%9C%EB%8B%A4.md)
  
 </details>
+</details>
 
 
 ## :pushpin:데이터베이스
 <details markdown="1">
-<summary>접기/펼치기</summary>
+<summary>열기</summary>
 
 * [20210731_SQL중급문법]()
 
@@ -69,7 +72,7 @@
 
 ## :pushpin:알고리즘
 <details markdown="1">
-<summary>접기/펼치기</summary>   
+<summary>열기</summary>   
 <details markdown="1">
 <summary>구현</summary>
        
@@ -144,7 +147,7 @@
 
 ## :pushpin:컴퓨터기초
 <details markdown="1">
-<summary>접기/펼치기</summary>
+<summary>열기</summary>
 
 * [20210705_트랜지스터,계산기](https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
 * [20210706_표현,하드웨어,언어특징](https://github.com/gogoheejun/TIL/blob/main/cs/20210706_%ED%91%9C%ED%98%84%EB%B0%A9%EC%8B%9D%2C%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%2C%EC%96%B8%EC%96%B4%ED%8A%B9%EC%A7%95.md)
@@ -153,7 +156,7 @@
 
 ## :pushpin:Web 기초
 <details markdown="1">
-<summary>접기/펼치기</summary>
+<summary>열기</summary>
 
 * [20210705_ajax(jquery활용)](https://github.com/gogoheejun/TIL/blob/main/basicWeb/html%2Ccss%2Cjs/20210705_jquery%2Cajax%2Cjson%ED%8C%8C%EC%8B%B1.md)
 * [20210706_api활용,크롤링,몽고db](https://github.com/gogoheejun/TIL/blob/main/basicWeb/20210707_api%2C%ED%81%AC%EB%A1%A4%EB%A7%81%2Cmongodb%EA%B8%B0%EC%B4%88.md)
@@ -166,7 +169,7 @@
 
 ## :pushpin:기타
 <details markdown="1">
-<summary>접기/펼치기</summary>
+<summary>열기</summary>
 
 * [20210702마크다운 기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210702%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md)
 * [20210703git기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210703git.md)
