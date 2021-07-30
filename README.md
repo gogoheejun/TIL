@@ -1,13 +1,70 @@
 
 > Today I learned. 하루하루 채워나가는 :boy:heejun의 :pencil2:TIL입니다
 
-## :pushpin:기타
+## :pushpin:Springboot
+<details markdown="1">
+<summary>열기</summary>
+
+- [20210713_스프링부트 기본원리01](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(01).md)
+- [20210714_스프링부트 기본원리02](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(02).md)
+
+<details markdown="1">
+<summary>인스타만들기</summary>
+
+- [YML파일이해하기](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/YML%ED%8C%8C%EC%9D%BC%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
+- [20210714_컨트롤러](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/01_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md)
+- [20210715_회원가입01](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/02_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85(1).md)
+- [20210716_회원가입02](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/03_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85(2).md)
+- [20210717_로그인](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/04_%EB%A1%9C%EA%B7%B8%EC%9D%B8.md)
+- [20210718_회원정보수정](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/05_%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95.md)
+- [20210723_구독하기api](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/06_%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0api.md)
+- [20210724_프로필페이지](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/07_%ED%94%84%EB%A1%9C%ED%95%84%ED%8E%98%EC%9D%B4%EC%A7%80.md)
+- [20210725_구독정보 뷰 렌더링](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/08_%EA%B5%AC%EB%8F%85%EC%A0%95%EB%B3%B4%20%EB%B7%B0%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
+- [20210726_스토리 페이지](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/08_%EA%B5%AC%EB%8F%85%EC%A0%95%EB%B3%B4%20%EB%B7%B0%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
+- [20210727_기타(인기페이지,프로필추가사항)](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/11_%EA%B8%B0%ED%83%80-%EC%9D%B8%EA%B8%B0%ED%8E%98%EC%9D%B4%EC%A7%80%2C%ED%94%84%EB%A1%9C%ED%95%84%20%EC%B6%94%EA%B0%80%EC%82%AC%ED%95%AD.md)
+- [20210729_댓글](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/12_%EB%8C%93%EA%B8%80.md)
+- [20210729_AOP처리](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/13_AOP%EC%B2%98%EB%A6%AC.md)
+
+</details>
+</details>
+
+## :pushpin:Java와 객체지향
+<details markdown="1">
+<summary>자바 기본</summary>
+
+- [20210710_날짜와시간](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EB%82%A0%EC%A7%9C%EC%99%80%EC%8B%9C%EA%B0%84.md)          
+- [20210710_예외처리](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%98%88%EC%99%B8%2C%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
+- [20210710_접근제어자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
+- [20210710_추상클래스_인터페이스](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+- [20210710_상속,생성자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%83%81%EC%86%8D%2C%EC%83%9D%EC%84%B1%EC%9E%90.md)
+- [20210710_캐스팅](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BA%90%EC%8A%A4%ED%8C%85.md)
+- [20210710_컬렉션](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BB%AC%EB%A0%89%EC%85%98.md)
+
+</details>
+
+<details markdown="1">
+<summary>자바 작동원리</summary>
+
+- [20210712_jvm](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_jvm.md)
+- [20210712_바이트코드](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C.md)
+- [20210712_리플렉션(1)](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98(1).md)
+
+</details>
+
+<details markdown="1">
+<summary>OOP</summary>
+
+ - [20210712_객체는 기능으로 정의한다](https://github.com/gogoheejun/TIL/blob/main/java_basic/OOP/01_%EA%B0%9D%EC%B2%B4%EB%8A%94%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C%EC%A0%95%EC%9D%98%ED%95%9C%EB%8B%A4.md)
+ 
+</details>
+
+
+## :pushpin:데이터베이스
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
-* [20210702마크다운 기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210702%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md)
-* [20210703git기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210703git.md)
-* [20210704_깃허브블로그만들기](https://github.com/gogoheejun/TIL/blob/main/etc/20210704_blog.md)
+* [20210731_SQL중급문법]()
+
 </details>
 
 ## :pushpin:알고리즘
@@ -82,64 +139,17 @@
 </details>
 </details>
 
-## :pushpin:Java와 객체지향
-<details markdown="1">
-<summary>자바 기본</summary>
-
-- [20210710_날짜와시간](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EB%82%A0%EC%A7%9C%EC%99%80%EC%8B%9C%EA%B0%84.md)          
-- [20210710_예외처리](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%98%88%EC%99%B8%2C%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
-- [20210710_접근제어자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
-- [20210710_추상클래스_인터페이스](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
-- [20210710_상속,생성자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%83%81%EC%86%8D%2C%EC%83%9D%EC%84%B1%EC%9E%90.md)
-- [20210710_캐스팅](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BA%90%EC%8A%A4%ED%8C%85.md)
-- [20210710_컬렉션](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BB%AC%EB%A0%89%EC%85%98.md)
-
-</details>
-
-<details markdown="1">
-<summary>자바 작동원리</summary>
-
-- [20210712_jvm](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_jvm.md)
-- [20210712_바이트코드](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C.md)
-- [20210712_리플렉션(1)](https://github.com/gogoheejun/TIL/blob/main/java_basic/java_knowledge/20210712_%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98(1).md)
-
-</details>
-
-<details markdown="1">
-<summary>OOP</summary>
-
- - [20210712_객체는 기능으로 정의한다](https://github.com/gogoheejun/TIL/blob/main/java_basic/OOP/01_%EA%B0%9D%EC%B2%B4%EB%8A%94%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C%EC%A0%95%EC%9D%98%ED%95%9C%EB%8B%A4.md)
- 
-</details>
-
-## :pushpin:Springboot
-<details markdown="1">
-<summary>열기</summary>
-
-- [20210713_스프링부트 기본원리01](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(01).md)
-- [20210714_스프링부트 기본원리02](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(02).md)
-
-<details markdown="1">
-<summary>인스타만들기</summary>
-
-- [YML파일이해하기](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/YML%ED%8C%8C%EC%9D%BC%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
-- [20210714_컨트롤러](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/01_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md)
-- [20210715_회원가입01](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/02_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85(1).md)
-- [20210716_회원가입02](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/03_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85(2).md)
-- [20210717_로그인](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/04_%EB%A1%9C%EA%B7%B8%EC%9D%B8.md)
-- [20210718_회원정보수정](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/05_%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95.md)
-- [20210723_구독하기api](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/06_%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0api.md)
-- [20210724_프로필페이지](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/07_%ED%94%84%EB%A1%9C%ED%95%84%ED%8E%98%EC%9D%B4%EC%A7%80.md)
-- [20210725_구독정보 뷰 렌더링](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/08_%EA%B5%AC%EB%8F%85%EC%A0%95%EB%B3%B4%20%EB%B7%B0%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
-- [20210726_스토리 페이지](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/08_%EA%B5%AC%EB%8F%85%EC%A0%95%EB%B3%B4%20%EB%B7%B0%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
-- [20210727_기타(인기페이지,프로필추가사항)](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/11_%EA%B8%B0%ED%83%80-%EC%9D%B8%EA%B8%B0%ED%8E%98%EC%9D%B4%EC%A7%80%2C%ED%94%84%EB%A1%9C%ED%95%84%20%EC%B6%94%EA%B0%80%EC%82%AC%ED%95%AD.md)
-- [20210729_댓글](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/12_%EB%8C%93%EA%B8%80.md)
-- [20210729_AOP처리](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/13_AOP%EC%B2%98%EB%A6%AC.md)
-
-</details>
-</details>
-
 ## :pushpin:Android
+
+
+## :pushpin:컴퓨터기초
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+* [20210705_트랜지스터,계산기](https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
+* [20210706_표현,하드웨어,언어특징](https://github.com/gogoheejun/TIL/blob/main/cs/20210706_%ED%91%9C%ED%98%84%EB%B0%A9%EC%8B%9D%2C%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%2C%EC%96%B8%EC%96%B4%ED%8A%B9%EC%A7%95.md)
+* [20210730_리눅스기초](https://github.com/gogoheejun/TIL/blob/main/cs/20210730_Linux%EA%B8%B0%EC%B4%88.md)
+</details>
 
 ## :pushpin:Web 기초
 <details markdown="1">
@@ -152,11 +162,13 @@
 
 </details>
 
-## :pushpin:컴퓨터기초
+
+
+## :pushpin:기타
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
-* [20210705_트랜지스터,계산기](https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
-* [20210706_표현,하드웨어,언어특징](https://github.com/gogoheejun/TIL/blob/main/cs/20210706_%ED%91%9C%ED%98%84%EB%B0%A9%EC%8B%9D%2C%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%2C%EC%96%B8%EC%96%B4%ED%8A%B9%EC%A7%95.md)
-* [20210730_리눅스기초](https://github.com/gogoheejun/TIL/blob/main/cs/20210730_Linux%EA%B8%B0%EC%B4%88.md)
+* [20210702마크다운 기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210702%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md)
+* [20210703git기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210703git.md)
+* [20210704_깃허브블로그만들기](https://github.com/gogoheejun/TIL/blob/main/etc/20210704_blog.md)
 </details>
