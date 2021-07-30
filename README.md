@@ -69,7 +69,7 @@
 <details markdown="1">
 <summary>SQL</summary>
 
-* [20210731_SQL중급문법](https://github.com/gogoheejun/TIL/tree/main/DB)
+* [20210731_SQL중급문법](https://github.com/gogoheejun/TIL/blob/main/DB/sql%EC%A4%91%EA%B8%89%EB%AC%B8%EB%B2%95.md)
 
 </details>
 
