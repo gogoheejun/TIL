@@ -66,7 +66,15 @@
 <details markdown="1">
 <summary>열기</summary>
 
-* [20210731_SQL중급문법]()
+<details markdown="1">
+<summary>SQL</summary>
+* [20210731_SQL중급문법](https://github.com/gogoheejun/TIL/tree/main/DB)
+</details>
+
+<details markdown="1">
+<summary>RDBMS 모델링</summary>
+
+</details>
 
 </details>
 
