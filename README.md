@@ -76,7 +76,8 @@
 <details markdown="1">
 <summary>RDBMS 모델링</summary>
 
--[20210731_RDBMS소개](https://github.com/gogoheejun/TIL/blob/main/DB/RDBMS%EB%AA%A8%EB%8D%B8%EB%A7%81/RDBMS%EC%86%8C%EA%B0%9C.md)
+-[20210730_RDBMS소개](https://github.com/gogoheejun/TIL/blob/main/DB/RDBMS%EB%AA%A8%EB%8D%B8%EB%A7%81/RDBMS%EC%86%8C%EA%B0%9C.md)
+-[20210731_1:M관계](https://github.com/gogoheejun/TIL/blob/main/DB/RDBMS모델링/01_1:M관계.md)
 
 </details>
 
