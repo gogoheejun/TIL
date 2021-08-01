@@ -164,7 +164,9 @@
 
 * [20210705_트랜지스터,계산기](https://github.com/gogoheejun/TIL/blob/main/cs/transiter_calculater.md)
 * [20210706_표현,하드웨어,언어특징](https://github.com/gogoheejun/TIL/blob/main/cs/20210706_%ED%91%9C%ED%98%84%EB%B0%A9%EC%8B%9D%2C%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%2C%EC%96%B8%EC%96%B4%ED%8A%B9%EC%A7%95.md)
-* [20210730_리눅스기초](https://github.com/gogoheejun/TIL/blob/main/cs/20210730_Linux%EA%B8%B0%EC%B4%88.md)
+* [20210730_리눅스기초01](https://github.com/gogoheejun/TIL/blob/main/cs/20210730_Linux%EA%B8%B0%EC%B4%88.md)
+* [20210731_리눅스기초02](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8802.md)
+* [20210801_리눅스기초03](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8803.md)
 </details>
 
 ## :pushpin:Web 기초
