@@ -9,6 +9,15 @@
 - [20210714_스프링부트 기본원리02](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(02).md)
 
 <details markdown="1">
+<summary>JPA</summary>
+
+- [20210802_설치,시작하기](https://github.com/gogoheejun/TIL/blob/main/java_spring/jpa/00_%EC%84%A4%EC%B9%98%2C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+- [20210802_영속성관리-내부동작방식](https://github.com/gogoheejun/TIL/blob/main/java_spring/jpa/01_%EC%98%81%EC%86%8D%EC%84%B1%EA%B4%80%EB%A6%AC-%EB%82%B4%EB%B6%80%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D.md)  
+
+
+</details>
+
+<details markdown="1">
 <summary>인스타만들기</summary>
 
 - [YML파일이해하기](https://github.com/gogoheejun/TIL/blob/main/java_spring/%EC%9D%B8%EC%8A%A4%ED%83%80%EB%A7%8C%EB%93%A4%EA%B8%B0/YML%ED%8C%8C%EC%9D%BC%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
