@@ -20,6 +20,7 @@
 
 - [20210821_개요](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/00_%EA%B0%9C%EC%9A%94%2C%EC%84%B9%EC%85%982.md)  
 - [20210822_Validation, Error Handling](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/01_Validation%20and%20Error%20handling.md)
+- [20210823_Data Persistence(with docker)](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/02_Data%20Persistence(%EB%8F%84%EC%BB%A4%EC%82%AC%EC%9A%A9).md)  
 
 </details>
 
