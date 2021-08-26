@@ -21,6 +21,8 @@
 - [20210821_개요](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/00_%EA%B0%9C%EC%9A%94%2C%EC%84%B9%EC%85%982.md)  
 - [20210822_Validation, Error Handling](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/01_Validation%20and%20Error%20handling.md)
 - [20210823_Data Persistence(with docker)](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/02_Data%20Persistence(%EB%8F%84%EC%BB%A4%EC%82%AC%EC%9A%A9).md)  
+- [20210824_Auth](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/04_Auth.md)
+- [20210825_Ownership and Restriction](https://github.com/gogoheejun/TIL/blob/main/node.js/nest.js/udemy_ZeroToHero/05_Task%20Ownership%20and%20Restriction.md)
 
 </details>
 
@@ -201,6 +203,7 @@
 * [20210730_리눅스기초01](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8801.md)
 * [20210731_리눅스기초02](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8802.md)
 * [20210801_리눅스기초03](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8803.md)
+* [20210827_JWT를 위한 배경지식](https://github.com/gogoheejun/TIL/blob/main/cs/TCP%2COSI%2CRSA%20for%20JWT.md)
 </details>
 
 ## :pushpin:Web 기초
