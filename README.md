@@ -204,6 +204,8 @@
 * [20210731_리눅스기초02](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8802.md)
 * [20210801_리눅스기초03](https://github.com/gogoheejun/TIL/blob/main/cs/Linux%EA%B8%B0%EC%B4%8803.md)
 * [20210827_JWT를 위한 배경지식](https://github.com/gogoheejun/TIL/blob/main/cs/TCP%2COSI%2CRSA%20for%20JWT.md)
+* [20210830_http-1](https://github.com/gogoheejun/TIL/blob/main/cs/http/%EC%9A%94%EC%95%BD(tcp%2Cip%2Chttp%20method%2C%20status).md)
+* [20210831_http-2](https://github.com/gogoheejun/TIL/blob/main/cs/http/%EC%9A%94%EC%95%BD2(%ED%97%A4%EB%8D%94).md)
 </details>
 
 ## :pushpin:Web 기초
