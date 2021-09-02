@@ -1,3 +1,5 @@
+udemy-Asynchronous Javascript Deep Dive
+
 # 7강-EventLoop
 
 이벤트루프는 계속 메시지큐를 확인함. 만약 setTimout으로 정한시간이 되서 콜백함수가 실행되면 큐에 메시지(함수)가 추가됨. 현재 일반적으로 선언된 코드들이 다 끝나면 메시지큐를 체크하고 거기에 있는 콜백함수를 실행시킴
