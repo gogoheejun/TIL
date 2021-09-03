@@ -11,6 +11,7 @@
 - [20210818_카메라연결](https://github.com/gogoheejun/TIL/blob/main/node.js/03_%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%97%B0%EA%B2%B0.md)
 - [20210820_쿠키,세션](https://github.com/gogoheejun/TIL/blob/main/node.js/04_%EC%BF%A0%ED%82%A4%2C%EC%84%B8%EC%85%98.md)
 - [20210820_미들웨어](https://github.com/gogoheejun/TIL/blob/main/node.js/05_%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4.md)
+- [20210903_엘리-validation](https://github.com/gogoheejun/TIL/blob/main/node.js/06_%EC%97%98%EB%A6%AC_validation.md)
 
 </details>
 
