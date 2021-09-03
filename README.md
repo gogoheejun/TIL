@@ -12,6 +12,7 @@
 - [20210820_쿠키,세션](https://github.com/gogoheejun/TIL/blob/main/node.js/04_%EC%BF%A0%ED%82%A4%2C%EC%84%B8%EC%85%98.md)
 - [20210820_미들웨어](https://github.com/gogoheejun/TIL/blob/main/node.js/05_%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4.md)
 - [20210903_엘리-validation](https://github.com/gogoheejun/TIL/blob/main/node.js/06_%EC%97%98%EB%A6%AC_validation.md)
+- [20210904_엘리-Auth관련연습,적용](https://github.com/gogoheejun/TIL/blob/main/node.js/07_%EC%97%98%EB%A6%AC-Authentication%2CAuthorization%EC%97%B0%EC%8A%B5%2C%EC%A0%81%EC%9A%A9.md)  
 
 </details>
 
