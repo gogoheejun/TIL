@@ -138,6 +138,8 @@
 * [20210905_udemy_BigO](https://github.com/gogoheejun/TIL/blob/main/algorithm/20210905_udemy_BigO.md)   
 * [20210905_udemy_LinkedList](https://github.com/gogoheejun/TIL/blob/main/algorithm/20210905_udemy_Linked%20Lists.md)  
 * [20210906_udemy_DoublyLinkedList](https://github.com/gogoheejun/TIL/tree/main/algorithm)  
+* [20210906_udemy_stakc,queue](https://github.com/gogoheejun/TIL/blob/main/algorithm/20210906_stack%2Cqueue.md)  
+* [20210906_udemy_tree](https://github.com/gogoheejun/TIL/blob/main/algorithm/20210906_tree.md)  
 
 </details>
 
