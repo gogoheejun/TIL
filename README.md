@@ -137,6 +137,7 @@
 
 * [20210905_udemy_BigO](https://github.com/gogoheejun/TIL/blob/main/algorithm/20210905_udemy_BigO.md)   
 * [20210905_udemy_LinkedList](https://github.com/gogoheejun/TIL/blob/main/algorithm/20210905_udemy_Linked%20Lists.md)  
+* [20210906_udemy_DoublyLinkedList](https://github.com/gogoheejun/TIL/tree/main/algorithm)  
 
 </details>
 
