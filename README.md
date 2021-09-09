@@ -84,6 +84,9 @@
 - [20210710_상속,생성자](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%83%81%EC%86%8D%2C%EC%83%9D%EC%84%B1%EC%9E%90.md)
 - [20210710_캐스팅](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BA%90%EC%8A%A4%ED%8C%85.md)
 - [20210710_컬렉션](https://github.com/gogoheejun/TIL/blob/main/java_basic/%EC%BB%AC%EB%A0%89%EC%85%98.md)
+- [20210908_doit_배열과ArrayList](https://github.com/gogoheejun/TIL/blob/main/java_basic/20210908_doit_%EB%B0%B0%EC%97%B4%EA%B3%BCArrayList.md)  
+- [20210908_doit_상속(추상클래스,탬플릿메서드,접근제한자,java8인터페이스).md](https://github.com/gogoheejun/TIL/blob/main/java_basic/20210908_doit_%EC%83%81%EC%86%8D(%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%2C%ED%83%AC%ED%94%8C%EB%A6%BF%EB%A9%94%EC%84%9C%EB%93%9C%2C%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90%2Cjava8%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4).md)  
+- [20210909_doit_기본클래스(java.lang.*,equals,hashCode,clone)](https://github.com/gogoheejun/TIL/blob/main/java_basic/20210909_doit_%EA%B8%B0%EB%B3%B8%ED%81%B4%EB%9E%98%EC%8A%A4(java.lang.*%2Cequals%2ChashCode%2Cclone).md)  
 
 </details>
 
