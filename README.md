@@ -238,6 +238,10 @@
 * [20210830_http-1](https://github.com/gogoheejun/TIL/blob/main/cs/http/%EC%9A%94%EC%95%BD(tcp%2Cip%2Chttp%20method%2C%20status).md)
 * [20210831_http-2](https://github.com/gogoheejun/TIL/blob/main/cs/http/%EC%9A%94%EC%95%BD2(%ED%97%A4%EB%8D%94).md)
 * [20210913_렌더링방식.md](https://github.com/gogoheejun/TIL/blob/main/cs/20210913_%EB%A0%8C%EB%8D%94%EB%A7%81%EB%B0%A9%EC%8B%9D.md)
+* [20210918_세션로그인방식.md](https://github.com/gogoheejun/TIL/blob/main/cs/20210918_%EC%84%B8%EC%85%98%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%B0%A9%EC%8B%9D.md)
+* [20210918_XSS,CSRF공격.md](https://github.com/gogoheejun/TIL/blob/main/cs/20210918_xss%2Ccsrf%EA%B3%B5%EA%B2%A9.md)
+
+
 </details>
 
 ## :pushpin:Web 기초
