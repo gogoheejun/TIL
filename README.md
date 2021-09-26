@@ -4,7 +4,7 @@
 
 ## :pushpin:Node.js
 <details markdown="1">
-<summary>열기</summary>
+<summary>열기</summary>f
 
 - [20210817_WebSocket기본](https://github.com/gogoheejun/TIL/blob/main/node.js/01_WebSocket.md)
 - [20210818_소켓IO](https://github.com/gogoheejun/TIL/blob/main/node.js/02_SocketIO.md)
@@ -35,6 +35,10 @@
 
 - [20210713_스프링부트 기본원리01](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(01).md)
 - [20210714_스프링부트 기본원리02](https://github.com/gogoheejun/TIL/blob/main/java_spring/springboot_%EA%B8%B0%EB%B3%B8%EC%9B%90%EB%A6%AC(02).md)
+- [20210925_스프링부트핵심원리_객체지향원칙](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210925_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_01_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9B%90%EC%B9%99.md)
+- [20210925_스프링부트핵심원리_스프링컨테이너](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210925_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_02_%EC%8A%A4%ED%94%84%EB%A7%81%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+- [20210925_스프링부트핵심원리_싱글톤,컴포넌트스캔](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210925_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_03_%EC%8B%B1%EA%B8%80%ED%86%A4%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+- [20210926_스프링부트핵심원리_의존관계주입](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210926_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_04_%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%EC%A3%BC%EC%9E%85.md)
 
 <details markdown="1">
 <summary>JPA</summary>
@@ -265,4 +269,6 @@
 * [20210703git기본](https://github.com/gogoheejun/TIL/blob/main/etc/20210703git.md)
 * [20210704_깃허브블로그만들기](https://github.com/gogoheejun/TIL/blob/main/etc/20210704_blog.md)
 * [20210904_정규표현식](https://github.com/gogoheejun/TIL/blob/main/etc/20210904_%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)  
+* [20210926_timzone이슈](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210924_%EC%84%9C%EB%B2%84timezone%20%EA%B4%80%EB%A0%A8%EC%9D%B4%EC%8A%88.md)  
+* 
 </details>
