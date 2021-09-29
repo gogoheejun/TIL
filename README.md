@@ -39,6 +39,7 @@
 - [20210925_스프링부트핵심원리_스프링컨테이너](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210925_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_02_%EC%8A%A4%ED%94%84%EB%A7%81%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
 - [20210925_스프링부트핵심원리_싱글톤,컴포넌트스캔](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210925_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_03_%EC%8B%B1%EA%B8%80%ED%86%A4%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
 - [20210926_스프링부트핵심원리_의존관계주입](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210926_%EC%8A%A4%ED%94%84%EB%A7%81%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_04_%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%EC%A3%BC%EC%9E%85.md)
+- [202109_서버타임 존 이슈](https://github.com/gogoheejun/TIL/blob/main/java_spring/20210924_%EC%84%9C%EB%B2%84timezone%20%EA%B4%80%EB%A0%A8%EC%9D%B4%EC%8A%88.md)  
 
 <details markdown="1">
 <summary>JPA</summary>
