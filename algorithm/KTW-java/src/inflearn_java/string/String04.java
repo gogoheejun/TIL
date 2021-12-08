@@ -1,3 +1,5 @@
+package inflearn_java.string;
+
 import java.util.ArrayList;
 
 //문장 속 가장 긴 단어 찾기

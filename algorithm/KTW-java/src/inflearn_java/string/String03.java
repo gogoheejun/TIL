@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package inflearn_java.string;
+
 //문장 속 가장 긴 단어 찾기
 public class String03 {
     public String solution(String str){
