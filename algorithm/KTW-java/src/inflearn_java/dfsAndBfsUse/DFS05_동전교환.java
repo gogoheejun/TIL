@@ -8,9 +8,9 @@ import java.util.Collections;
 public class DFS05_동전교환 {
     static int n, m, answer = Integer.MAX_VALUE;
     public void DFS(int L, int sum, Integer[] arr){
-        if(sum>m);
-        //합계가 최소값인 answer를 초과하면 더진행할 필요 없다
-        if(L>=answer) return;
+        if(sum>m) return;//15원 넘으면 끝
+        if(L>=answer) return;//합계가 최소값인 answer를 초과하면 더진행할 필요 없다
+
         if(sum == m){
             answer = Math.min(answer, L);
         }else {
